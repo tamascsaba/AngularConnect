@@ -10,3 +10,5 @@ Here are my notes about the AngularConnect conference, London, 2015
 - Angular 2's performance is just amazing
 - Batarangle for Angular 2 is under development it's available on github
 - Angular CLI is just awesome - http://ngcli.github.io/
+- Universal starter kit - https://github.com/angular-class/angular2-universal-starter
+- Realy good cheatsheet - https://angular.io/cheatsheet
